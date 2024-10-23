@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "NOMBRE": "Café Solar",
+        "DESCRIPCION": "Café con notas cítricas, cultivado bajo el sol.",
+        "PRECIO": 12.99
+    },
+    {
+        "ID": 2,
+        "NOMBRE": "Auriculares Nebulosa",
+        "DESCRIPCION": "Auriculares inalámbricos con cancelación de ruido activa.",
+        "PRECIO": 89.99
+    },
+    {
+        "ID": 3,
+        "NOMBRE": "Mermelada Luna Azul",
+        "DESCRIPCION": "Mermelada de moras con un toque de lavanda.",
+        "PRECIO": 7.50
+    },
+    {
+        "ID": 4,
+        "NOMBRE": "Teclado Fantasma",
+        "DESCRIPCION": "Teclado mecánico retroiluminado, perfecto para gaming nocturno.",
+        "PRECIO": 45.00
+    },
+    {
+        "ID": 5,
+        "NOMBRE": "Vino Nocturno",
+        "DESCRIPCION": "Vino tinto envejecido en barricas de roble oscuro.",
+        "PRECIO": 29.99
+    },
+    {
+        "ID": 6,
+        "NOMBRE": "Mochila Eco-Tierra",
+        "DESCRIPCION": "Mochila hecha de materiales reciclados, resistente y elegante.",
+        "PRECIO": 35.00
+    },
+    {
+        "ID": 7,
+        "NOMBRE": "Té Amanecer",
+        "DESCRIPCION": "Té verde con jengibre y limón, ideal para las mañanas.",
+        "PRECIO": 8.99
+    },
+    {
+        "ID": 8,
+        "NOMBRE": "Linterna Estelar",
+        "DESCRIPCION": "Linterna LED recargable, ilumina como una estrella.",
+        "PRECIO": 15.00
+    },
+    {
+        "ID": 9,
+        "NOMBRE": "Pluma Infinity",
+        "DESCRIPCION": "Pluma estilográfica con tinta de secado rápido.",
+        "PRECIO": 22.50
+    },
+    {
+        "ID": 10,
+        "NOMBRE": "Cojín Nube Suave",
+        "DESCRIPCION": "Cojín ultra suave que te hará sentir en una nube.",
+        "PRECIO": 18.99
+    }
+]

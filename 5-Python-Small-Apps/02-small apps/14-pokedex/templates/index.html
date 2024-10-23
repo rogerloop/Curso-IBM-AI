@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Pokémon de la Primera Generación</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Imagen</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for pokemon in pokemons %}
+            <tr>
+                <td>{{ pokemon['id'] }}</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{{ pokemon['id'] }}.png" alt="{{ pokemon['name'] }}" width="50" height="50">
+                </td>
+                <td>
+                    <a href="{{ url_for('pokemon_detail', pokemon_id=pokemon['id']) }}">{{ pokemon['name'].capitalize() }}</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
