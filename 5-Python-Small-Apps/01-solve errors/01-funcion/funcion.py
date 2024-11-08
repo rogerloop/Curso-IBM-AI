@@ -12,3 +12,5 @@ try:
     print("El resultado es:", resultado)
 except ValueError:
     print("Error: Por favor ingresa valores numéricos.")
+
+    # try git conexion
