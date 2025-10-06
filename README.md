@@ -48,7 +48,7 @@ Este proyecto incluye los proyectos y ejercicios desarrollados en el curso de in
 
 ## 🙌 Créditos
 
-Este proyecto fue desarrollado durante el curso de **IBM SkillsBuild** y **Udemy** realizado por Roger Defez en el tema de Inteligencia Artificial y Machine Learning.
+Este proyecto fue desarrollado durante el curso de **IBM SkillsBuild** y **Udemy** realizado por  rogerloop en el tema de Inteligencia Artificial y Machine Learning.
 
 ---
 
