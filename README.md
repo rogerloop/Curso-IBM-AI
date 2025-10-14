@@ -52,4 +52,4 @@ Este proyecto fue desarrollado durante el curso de **IBM SkillsBuild** y **Udemy
 
 ---
 
-> 💡 *Nota: Este repositorio está destinado a fines educativos y no incluye licencia específica. Si deseas utilizar el código para otros propósitos, consulta con el autor.*
+> 💡 *Nota: Este repositorio está destinado a fines educativos y no incluye licencia específica. Si deseas utilizar el código para otros propósitos, consulta con el autor. *
